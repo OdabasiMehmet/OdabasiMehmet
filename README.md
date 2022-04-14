@@ -44,6 +44,6 @@ I have succesfully mastered Git, Github, HTML,CSS, Linux, IT Fundamentals, Compu
 
 ## 📈 Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GİTHUB-OdabasiMehmet&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GİTHUB-OdabasiMehmet&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GİTHUB-OdabasiMehmet&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Odabasimehmet.github.io&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Odabasimehmet.github.io&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odabasimehmet.github.io&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
