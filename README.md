@@ -1,7 +1,7 @@
 ## Hi there 👋  MEHMET ODABAŞI is here. 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME/) 
-<a href="https://GİTHUB-USERNAME.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=GİTHUB-USERNAME" alt="visitor counter"/>
+<a href="https://GİTHUB-USERNAME.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=OdabasiMehmet" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
 ### What I'm using ? 🛠     
@@ -27,7 +27,7 @@ I have succesfully mastered Git, Github, HTML,CSS, Linux, IT Fundamentals, Compu
 <!--  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express" height="50" /> </a>  -->
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="50"/> </a> 
+<!--   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="50"/> </a>  -->
