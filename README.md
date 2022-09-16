@@ -7,10 +7,14 @@
 ### What I'm using ? 🛠     
 
 2022 is the year that changed my life dramatically. I succesfully closed a chapter in my life and started a journey in IT World.
-I have succesfully mastered Git, Github, HTML,CSS, Linux, IT Fundamentals, Computational Thinking and Basic Python.
-<br/>
+First, I have succesfully mastered AWS services and became an AWS certified solutions architect. Then, I have learned the necessary tools to become a Devops engineer.
+I believe I have addedd all the necessary skills to look forward in a Devops career.
 
-- Python, HTML5, CSS3, Git, GitHub
+<br/>
+- Kubernetes, Terraform, Ansible
+- Jenkins, Maven, Nexus,
+- Linux, Git, GitHub
+- Python, HTML, CSS3, SQL
 
 - 💬 Ask  me about anything that you want to learn
 
