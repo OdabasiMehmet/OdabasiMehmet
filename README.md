@@ -11,9 +11,9 @@ First, I have succesfully mastered AWS services and became an AWS certified solu
 I believe I have addedd all the necessary skills to look forward in a Devops career.
 
 <br/>
-- Kubernetes, Terraform, Ansible
-- Jenkins, Maven, Nexus,
-- Linux, Git, GitHub
+- Kubernetes, Terraform, Ansible <br>
+- Jenkins, Maven, Nexus <br>
+- Linux, Git, GitHub <br>
 - Python, HTML, CSS3, SQL
 
 - 💬 Ask  me about anything that you want to learn
