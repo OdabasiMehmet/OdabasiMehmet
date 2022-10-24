@@ -8,7 +8,7 @@
 
 2022 is the year that changed my life dramatically. I succesfully closed a chapter in my life and started a journey in IT World.
 First, I have succesfully mastered AWS services and became an AWS certified solutions architect. Then, I have learned the necessary tools to become a Devops engineer.
-I believe I have addedd all the necessary skills to look forward in a Devops career.
+I believe I have added all the necessary skills to look forward in a Devops career.
 
 <br/>
 - Kubernetes, Terraform, Ansible <br>
