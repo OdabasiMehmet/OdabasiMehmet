@@ -1,8 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  MEHMET ODABAŞI is here. 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-odabasi/) 
-<a href="https://Odabasimehmet.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=OdabasiMehmet" alt="visitor counter"/>
-<!-- <p align="left">  </p> -->
+<a href="https://medium.com/@mehmetodabashi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehmetodabashi" height="30" width="40" /></a>[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-odabasi/) 
+<a href="https://Odabasimehmet.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=OdabasiMehmet" alt="visitor counter"/> 
+
 
 ### What I'm using ? 🛠     
 
@@ -16,9 +16,8 @@ I believe I have added all the necessary skills to look forward in a Devops care
 - Linux, Git, GitHub <br>
 - Python, HTML, CSS3, SQL
 
-- 💬 Ask  me about anything that you want to learn
-
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/mehmet-odabasi/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+
 
 
 ## 🚴 Skills
@@ -42,6 +41,15 @@ I believe I have added all the necessary skills to look forward in a Devops care
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
 </p>
 
+## 
+## Check my medium Articles below or you can reach my medium account here: <a href="https://medium.com/@mehmetodabashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehmetodabashi" height="30" width="40" /></a>
+
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0" alt="Recent Article 0"> 
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/1" alt="Recent Article 1"> 
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/2" alt="Recent Article 2"> 
+         <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/3" alt="Recent Article 3"> 
+            <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0" alt="Recent Article 4"> 
 
 ## 📈 Statistics
 <p align="center">
