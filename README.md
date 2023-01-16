@@ -45,11 +45,11 @@ I believe I have added all the necessary skills to look forward in a Devops care
 ## Check my medium Articles below or you can reach my medium account here: <a href="https://medium.com/@mehmetodabashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehmetodabashi" height="30" width="40" /></a>
 
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0" alt="Recent Article 2"> 
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/1" alt="Recent Article 3"> 
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/2" alt="Recent Article 4"> 
-         <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/3" alt="Recent Article 5"> 
-            <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0" alt="Recent Article 6"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0" alt="Recent Article 1"> 
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/1" alt="Recent Article 2"> 
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/2" alt="Recent Article 3"> 
+         <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mehmetodabashi/3" alt="Recent Article 4"> 
+          
 
 ## 📈 Statistics
 <p align="center">
